@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Apple iOS 18 to introduce AI-powered ‘Emoji Customization,’ suggests Mark Gurman | Mint - Mint",
+            "description": "Mark Gurman previews Apple's upcoming iOS 18 and macOS 15 in his Power On newsletter. iOS 18 will introduce AI-generated custom emojis, improved home screen customization, and AI enhancements in various applications.",
+            "url": "https://www.livemint.com/technology/tech-news/apple-ios-18-to-introduce-ai-powered-emoji-customization-suggests-mark-gurman-11716744758126.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/26/1600x900/wall_street_regulators_emojis_1688037789381_1716744992831.JPG",
+            "publishedAt": "2024-05-26T17:42:25Z",
+            "content": "Mark Gurman from Bloomberg has shed light on what to anticipate from Apples upcoming iOS 18 and macOS 15, as detailed in the latest edition of his Power On newsletter. According to Gurman, one of the… [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Business Standard",
+            "title": "Sounds just like you: The rise of voice technology - Business Standard",
+            "description": null,
+            "url": "https://www.business-standard.com/opinion/columns/sounds-just-like-you-the-rise-of-voice-technology-124052600668_1.html",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T16:49:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Ashutosh Mishra",
+            "title": "Total recall: Microsoft feature for computers sparks privacy debate - Business Standard",
+            "description": "Recall on Copilot Plus computers will memorise and save everything that's on a PC user's screen",
+            "url": "https://www.business-standard.com/technology/tech-news/total-recall-microsoft-feature-for-computers-sparks-privacy-debate-124052600656_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/26/thumb/fitandfill/400X400/1716741083-6802.jpg",
+            "publishedAt": "2024-05-26T16:32:45Z",
+            "content": "Recall on Copilot Plus computers will memorise and save everything that's on a PC user's screen\r\nRepresentative Picture\r\nAshutosh Mishra\r\nArtificial intelligence (AI) technologies that the world is e… [+775 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India TV News"
+            },
+            "author": "Saumya Nigam",
+            "title": "Upcoming smartphone in June 2024: Honor, OnePlus, Vivo and more - India TV News",
+            "description": "Whether you’re interested in foldable technology, mid-range affordability, or flagship performance, there will be plenty of options to choose from in the upcoming month (June 2024).",
+            "url": "https://www.indiatvnews.com/technology/news/upcoming-smartphone-in-june-2024-honor-oneplus-vivo-and-more-2024-05-26-933522",
+            "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/05/elon-musk-reportedly-on-the-verge-of-raising-billions-for-his-ai-company-62-1716735844.jpg",
+            "publishedAt": "2024-05-26T15:29:39Z",
+            "content": "In June 2024, several tech companies are planning to launch several smart devices in the global market. meaning, the upcoming month will be all about technological advancement, and if you are plannin… [+2549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Livemint",
+            "title": "Gemini AI feature in Google Messages expands with support for Workspace, YouTube, and Maps Extensions | Mint - Mint",
+            "description": "Google has rolled out Gemini feature in Google Messages, offering an AI assistant for one-on-one interactions with optimized responses. Users can provide feedback and access Gemini Extensions, excluding EEA, UK, Switzerland, and India but supporting English a…",
+            "url": "https://www.livemint.com/technology/tech-news/gemini-ai-feature-in-google-messages-expands-with-support-for-workspace-youtube-and-maps-extensions-11716734371584.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/26/1600x900/FILES-US-TECH-GOOGLE-AI-0_1716556370646_1716734493588.jpg",
+            "publishedAt": "2024-05-26T14:48:03Z",
+            "content": "Google has begun the widespread rollout of its Gemini feature in Google Messages, following its announcement at I/O 2024, reported 9To5Google. Over the past few days, stable users have started receiv… [+2327 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Tech Desk",
+            "title": "Vivo y200 Pro 5G vs Nothing Phone 2(a): How the mid-range smartphones compare - The Times of India",
+            "description": "MOBILES & TABLETS News: Vivo and Nothing have launched new mid-range smartphones with unique features. Vivo Y200 Pro 5G offers a premium experience with a curved AMOLED displ",
+            "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/vivo-y200-pro-5g-vs-nothing-phone-2a-how-the-mid-range-smartphones-compare/articleshow/110442205.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110442212,width-1070,height-580,imgsize-1132305,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2024-05-26T14:04:00Z",
+            "content": null
+        }
+    ]
+}

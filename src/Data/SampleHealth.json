@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "News18"
+            },
+            "author": "Karishma Jain, Prof (Dr) Saransh Jain",
+            "title": "Let’s Talk Sex | When Thyroid Messes With Sex Life: A Guide to Healthy Sex Life - News18",
+            "description": "By understanding the connection between thyroid function and sexual function and taking proactive steps to address any issues that arise, individuals with thyroid disorders can maintain fulfilling and satisfying sexual relationships",
+            "url": "https://www.news18.com/lifestyle/lets-talk-sex-when-thyroid-messes-with-sex-life-a-guide-to-healthy-sex-life-8904105.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/11/news18-bl-zb-2023-11-fb8eae19a7141d076edb3d90dc409931-16x9.jpg?impolicy=website&width=1200&height=675",
+            "publishedAt": "2024-05-26T18:02:37Z",
+            "content": "In this article, we will explain the connection between thyroid disorders &amp; sexual health and provide tips to have a fulfilling sex life.\r\nSexual health is an integral component of overall well-b… [+6083 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Piyali Bhadra",
+            "title": "How to make almonds nutritionally superior - The Times of India",
+            "description": "Let's take a look at how you can consume almonds.",
+            "url": "https://timesofindia.indiatimes.com/life-style/health-fitness/web-stories/how-to-make-almonds-nutritionally-superior/photostory/110438136.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-110438140,imgsize-884631,width-900,height-1200,resizemode-6/110438140.jpg",
+            "publishedAt": "2024-05-26T16:30:00Z",
+            "content": "Almonds are healthy and recommended by doctors for everyday consumption, however, there is a limit to them that you can consume. The number of almond intake mainly depends on whether youre looking to… [+20 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "The Indian Express",
+            "title": "What explains the mysterious spike in whooping cough cases in the US and Europe of late? - The Indian Express",
+            "description": null,
+            "url": "https://indianexpress.com/article/explained/explained-health/spike-whooping-cough-europe-9353449/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T15:39:42Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "The Hindu",
+            "title": "‘Take action against medical officers of PHCs that had zero deliveries in five years’ - The Hindu",
+            "description": null,
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/take-action-against-medical-officers-of-phcs-that-had-zero-deliveries-in-five-years/article68218745.ece",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T15:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Siasat Daily"
+            },
+            "author": "Apoorva Ramachandra",
+            "title": "Rising temperatures, rising stress: Toll of climate change on mental health - The Siasat Daily",
+            "description": "As our planet continues to face the increasing effects of climate change, we often look at only the visible and tangible impacts. For example, every summer brings with it disturbing headlines announcing record-breaking high temperatures in cities across the w…",
+            "url": "https://www.siasat.com/rising-temperatures-rising-stress-toll-of-climate-change-on-mental-health-3033062/",
+            "urlToImage": "https://cdn.siasat.com/wp-content/uploads/2024/05/mental_health.jpg",
+            "publishedAt": "2024-05-26T13:48:00Z",
+            "content": "As our planet continues to face the increasing effects of climate change, we often look at only the visible and tangible impacts. For example, every summer brings with it disturbing headlines announc… [+4645 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Shweta Dravid",
+            "title": "Turning 40? A guide on all you need to know about getting a mammogram | Mint - Mint",
+            "description": "With breast cancer emerging as one of the leading causes of death in women worldwide, a mammogram is an effective tool to detect and fight the disease early",
+            "url": "https://www.livemint.com/mint-lounge/wellness/breast-cancer-womens-health-mammogram-at-40-guide-gynecologist-11716633731304.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2024/05/26/1600x900/national-cancer-institute-0izFVmwJ5pw-unsplash_1716701278555_1716701305726.jpg",
+            "publishedAt": "2024-05-26T12:30:14Z",
+            "content": "Did you know that breast cancer is the most common cancer among women, affecting about 1 in 8 in their lifetime? According to a WHO study released in March this year, around 2.3 million women were di… [+5768 chars]"
+        }
+    ]
+}

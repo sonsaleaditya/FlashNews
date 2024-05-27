@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 54,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "NASA Funded This Crazy Project To Search For Life On Mars - Fraser Cain",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=dcf87fYciXM",
+            "urlToImage": null,
+            "publishedAt": "2024-05-26T18:25:44Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Tech",
+            "title": "5 latest 2024 images shared by NASA James Webb Space Telescope - HT Tech",
+            "description": "5 latest 2024 images shared by NASA James Webb Space Telescope Here is a glimpse of the 5 latest images captured by NASA James Webb Space Telescope. We are 5 months into the year 2024 and over the time period NASA has shared details about several groundbreaki…",
+            "url": "https://tech.hindustantimes.com/web-stories/5-latest-2024-images-shared-by-nasa-james-webb-space-telescope-71715942970314.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2024/05/17/1600x900/53691677609_33f53e0ce1_c_1715943635988_1715943638309.jpg/",
+            "publishedAt": "2024-05-26T15:49:44Z",
+            "content": "Photo Credit: Pixabay\r\n Here is a glimpse of the 5 latest images captured by NASA James Webb Space Telescope.\r\nPhoto Credit: Pixabay\r\n We are 5 months into the year 2024 and over the time period NASA… [+1095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cgtn.com"
+            },
+            "author": "CGTN",
+            "title": "Shenzhou-18 crew conducts scientific experiments in space - CGTN",
+            "description": "China's three astronauts on the Shenzhou-18 mission have been carrying out a series of scientific experiments over the past month. Ye Guangfu, Li Cong and Li Guangsu were sent to the China Space Station&nbsp;for a six-month mission on April 25. The crew",
+            "url": "https://news.cgtn.com/news/2024-05-26/Shenzhou-18-crew-conducts-scientific-experiments-in-space-1tVlNBdWvni/p.html",
+            "urlToImage": "https://video.cgtn.com/news/2024-05-26/Shenzhou-18-crew-conducts-scientific-experiments-in-space-1tVlNBdWvni/video/4db5c6aaee874bdfbf963ad9ef669155/4db5c6aaee874bdfbf963ad9ef669155-1280.jpg",
+            "publishedAt": "2024-05-26T14:15:49Z",
+            "content": "China's three astronauts on the Shenzhou-18 mission have been carrying out a series of scientific experiments over the past month. Ye Guangfu, Li Cong and Li Guangsu were sent to the China Space Stat… [+406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Space junk fell on a Canadian farm and SpaceX wants it back, but who's liable? - Global News",
+            "description": "Debris likely linked to a SpaceX Dragon spacecraft fell on a Saskatchewan farmer's field earlier this year and after being discovered last month, it left peo...",
+            "url": "https://www.youtube.com/watch?v=jkW2OJm_E5E",
+            "urlToImage": "https://i.ytimg.com/vi/jkW2OJm_E5E/maxresdefault.jpg",
+            "publishedAt": "2024-05-26T14:00:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "Team  Quantum",
+            "title": "Kudos to crows: They can count - BusinessLine",
+            "description": "Counting Crows: Scientists have trained crows with visual and auditory cues to make the connection between what they saw and what they heard",
+            "url": "https://www.thehindubusinessline.com/business-tech/kudos-to-crows-they-can-count/article68218449.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/news/dga87a/article68218450.ece/alternates/LANDSCAPE_1200/BL2705_Quantum_Wow.jpg",
+            "publishedAt": "2024-05-26T13:29:12Z",
+            "content": "It is not uncommon to play with toddlers by raising a certain number of fingers on a hand and asking them to tell the number. A group of scientists tried the trick with crows. \r\nThe results amazed th… [+1088 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BusinessLine"
+            },
+            "author": "M Ramesh",
+            "title": "Korean scientists develop superfast method for producing diamonds - BusinessLine",
+            "description": "A novel approach shows the way to make diamonds in 15 minutes without any seed particles",
+            "url": "https://www.thehindubusinessline.com/business-tech/korean-scientists-develop-superfast-method-for-producing-diamonds/article68218385.ece",
+            "urlToImage": "https://bl-i.thgim.com/public/incoming/m7vctn/article68218395.ece/alternates/LANDSCAPE_1200/MDF49872.JPG",
+            "publishedAt": "2024-05-26T13:18:40Z",
+            "content": "In the Budget for 2023-24, Finance Minister Nirmala Sitaraman announced reduction in customs duties for seeds for lab grown diamonds, to give a fillip to diamond manufacturing in India. The governmen… [+2730 chars]"
+        }
+    ]
+}
